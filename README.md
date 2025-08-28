@@ -1,0 +1,1 @@
+A collection of beginner-friendly Machine Learning projects focused on understanding and implementing fundamental concepts. Each project is built with Python and popular ML libraries like NumPy, Pandas, Scikit-learn, and Matplotlib
